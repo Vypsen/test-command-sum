@@ -4,4 +4,4 @@
 1. Clone the project `git clone https://github.com/Vypsen/test-command-sum.git`
 2. run `cd test-command-sum`
 3. run `composer install`
-4. run `php app app:get-sum <dir>`
+4. run `php app app:get-sum Tests/<dirTest>`
